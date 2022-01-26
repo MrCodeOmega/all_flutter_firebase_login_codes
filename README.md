@@ -1,6 +1,9 @@
-# flutter_firebase
+# ALL FLUTTER FIREBASE LOGIN CODES 
+# EXAMPLE IN ONE PROJECT 
 
-A new Flutter project.
+# Code0mega
+
+
 
 ## Getting Started
 
